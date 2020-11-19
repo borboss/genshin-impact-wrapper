@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "tsc && node test/test.js",
-    "publish": "tsc && npm publish"
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",

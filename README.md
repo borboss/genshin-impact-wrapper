@@ -1,5 +1,14 @@
 # Unofficial Genshin Impact API
 
+<div align="center">
+    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://img.shields.io/npm/v/genshin-api"></a>
+    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://img.shields.io/npm/dm/genshin-api"></a>
+    <a href="https://github.com/xhayper/genshin-api/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/genshin-api"></a>
+</div>
+<div align="center">
+    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://nodei.co/npm/genshin-api.png?stars=true"></a>
+</div>
+
 * What can this package do?
 <br>Search information about a character.
 
