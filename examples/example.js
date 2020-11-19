@@ -1,11 +1,11 @@
 const genshin = require("genshin-impact-wrapper");
-const api = new genshin.client();
 
 (async () => {
-    console.log((await api.getCharacters()));
-    console.log((await api.getCharacterByRarity(5)));
-    console.log((await api.getCharacterByName("Diona")));
-    console.log((await api.getCharacterByWeapon("Bow")));
-    console.log((await api.getCharacterByVision("Cryo")));
-    console.log((await api.getCharacterByNation("Mondstadt")));
+    console.log((await genshin.getCharacters()));
+    console.log((await genshin.getCharacterByRarity(5)));
+    console.log((await genshin.getCharacterByName("Diona")));
+    console.log((await genshin.getCharacterByWeapon("Bow")));
+    console.log((await genshin.getCharacterByVision("Cryo")));
+    console.log((await genshin.getCharacterByGender("Female")));
+    console.log((await genshin.getCharacterByNation("Mondstadt")));
 })();
