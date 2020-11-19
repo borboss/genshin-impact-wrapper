@@ -1,6 +1,6 @@
 {
   "name": "genshin-api",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Unofficial Genshin Impact API",
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
