@@ -2,7 +2,7 @@
   "name": "genshin-api",
   "version": "1.0.1",
   "description": "Unofficial Genshin Impact API",
-  "main": "./dist/main,js",
+  "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
   "dependencies": {
     "glob": "^7.1.6"
