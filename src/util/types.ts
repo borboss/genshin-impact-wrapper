@@ -1,9 +1,9 @@
-type element = "pyro" | "hydro" | "electro" | "anemo" | "cyro" | "dendro" | "geo"
+type vision = "Pyro" | "Hydro" | "Electro" | "Anemo" | "Cryo" | "Dendro" | "Geo" | "Adaptive"
 
-type weapon = "bow" | "catalyst" | "claymore" | "polearm" | "sword"
+type weapon = "Bow" | "Catalyst" | "Claymore" | "Polearm" | "Sword"
 
-type nation = "mondstadt" | "liyue"
+type nation = "Mondstadt" | "Liyue"
 
-type gender = "male" | "female";
+type gender = "Male" | "Female";
 
-export { element, weapon, gender, nation };
+export { vision, weapon, gender, nation };
