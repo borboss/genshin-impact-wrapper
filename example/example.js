@@ -1,4 +1,5 @@
-const api = new (require("../dist/main.js")).client();
+const genshin = require("genshin-impact-wrapper");
+const api = new genshin.client();
 
 (async () => {
     console.log((await api.getCharacters()));

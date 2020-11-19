@@ -1,12 +1,12 @@
-# Unofficial Genshin Impact API
+# Unofficial Genshin Impact API Wrapper
 
 <div align="center">
-    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://img.shields.io/npm/v/genshin-api"></a>
-    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://img.shields.io/npm/dm/genshin-api"></a>
-    <a href="https://github.com/xhayper/genshin-api/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/genshin-api"></a>
+    <a href="https://www.npmjs.com/package/genshin-impact-wrapper"><img src="https://img.shields.io/npm/v/genshin-impact-wrapper"></a>
+    <a href="https://www.npmjs.com/package/genshin-impact-wrapper"><img src="https://img.shields.io/npm/dm/genshin-impact-wrapper"></a>
+    <a href="https://github.com/xhayper/genshin-impact-wrapper/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/genshin-impact-wrapper"></a>
 </div>
 <div align="center">
-    <a href="https://www.npmjs.com/package/genshin-api"><img src="https://nodei.co/npm/genshin-api.png?stars=true"></a>
+    <a href="https://www.npmjs.com/package/genshin-impact-wrapper"><img src="https://nodei.co/npm/genshin-impact-wrapper.png?stars=true"></a>
 </div>
 
 * What can this package do?
@@ -17,7 +17,7 @@
 Typescript
 
 ```typescript
-import { client } from "genshin-api";
+import { client } from "genshin-impact-wrapper";
 const api = new client();
 
 (async () => {
@@ -33,7 +33,7 @@ const api = new client();
 Javascript
 
 ```javascript
-const genshin = require("genshin-api");
+const genshin = require("genshin-impact-wrapper");
 const api = new genshin.client();
 
 (async () => {
@@ -51,12 +51,12 @@ You can use your npm package manager of your choice.
 
 NPM
 ```
-npm install genshin-api
+npm install genshin-impact-wrapper
 ```
 
 Yarn
 ```
-yarn add genshin-api
+yarn add genshin-impact-wrapper
 ```
 
 * Credits

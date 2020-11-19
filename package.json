@@ -1,7 +1,7 @@
 {
-  "name": "genshin-api",
-  "version": "1.0.0",
-  "description": "Unofficial Genshin Impact API",
+  "name": "genshin-impact-wrapper",
+  "version": "1.0.1",
+  "description": "Unofficial Genshin Impact API Wrapper",
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
   "runkitExampleFilename": "./examples/example.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xhayper/genshin-api.git"
+    "url": "git+https://github.com/xhayper/genshin-impact-wrapper.git"
   },
   "keywords": [
     "genshin-impact",
@@ -28,7 +28,7 @@
   "author": "hayper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xhayper/genshin-api/issues"
+    "url": "https://github.com/xhayper/genshin-impact-wrapper/issues"
   },
-  "homepage": "https://github.com/xhayper/genshin-api#readme"
+  "homepage": "https://github.com/xhayper/genshin-impact-wrapper#readme"
 }
