@@ -1,6 +1,6 @@
 {
   "name": "genshin-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial Genshin Impact API",
   "main": "./dist/main,js",
   "types": "./dist/main.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xhayper/genshin-impact-api.git"
+    "url": "git+https://github.com/xhayper/genshin-api.git"
   },
   "keywords": [
     "genshin-impact",
@@ -27,7 +27,7 @@
   "author": "hayper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xhayper/genshin-impact-api/issues"
+    "url": "https://github.com/xhayper/genshin-api/issues"
   },
-  "homepage": "https://github.com/xhayper/genshin-impact-api#readme"
+  "homepage": "https://github.com/xhayper/genshin-api#readme"
 }
