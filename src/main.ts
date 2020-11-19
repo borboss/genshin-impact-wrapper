@@ -4,7 +4,7 @@ import * as glob from "glob";
 
 export class client {
 
-    async getCharacters() {
+    async getCharacters(): Promise<dataObject.character[]> {
         let characterDataList: dataObject.character[] = [];
         const filePathList = glob.sync(__dirname + "\\..\\data\\characters\\**\\*.json");
         for (const filePath of filePathList) {
@@ -13,29 +13,24 @@ export class client {
         return characterDataList;
     }
 
-    async getCharacterByName(name:string) {
-        const characterDataList:dataObject.character[] = await this.getCharacters();
-        return characterDataList.filter((character) => character.name.toLowerCase() === name.toLowerCase());
+    async getCharacterByName(name:string): Promise<dataObject.character[]> {
+        return (await this.getCharacters()).filter((character) => character.name.toLowerCase() === name.toLowerCase());
     }
 
-    async getCharacterByWeapon(weapon:type.weapon) {
-        const characterDataList:dataObject.character[] = await this.getCharacters();
-        return characterDataList.filter((character) => character.weapon === weapon);
+    async getCharacterByWeapon(weapon:type.weapon): Promise<dataObject.character[]> {
+        return (await this.getCharacters()).filter((character) => character.weapon === weapon);
     }
 
-    async getCharacterByVision(vision:type.vision) {
-        const characterDataList:dataObject.character[] = await this.getCharacters();
-        return characterDataList.filter((character) => character.vision === vision);
+    async getCharacterByVision(vision:type.vision): Promise<dataObject.character[]> {
+        return (await this.getCharacters()).filter((character) => character.vision === vision);
     }
 
-    async getCharacterByNation(nation:type.nation) {
-        const characterDataList:dataObject.character[] = await this.getCharacters();
-        return characterDataList.filter((character) => character.nation === nation);
+    async getCharacterByNation(nation:type.nation): Promise<dataObject.character[]> {
+        return (await this.getCharacters()).filter((character) => character.nation === nation);
     }
 
-    async getCharacterByRarity(rarity:number) {
-        const characterDataList:dataObject.character[] = await this.getCharacters();
-        return characterDataList.filter((character) => character.rarity === rarity);
+    async getCharacterByRarity(rarity:number): Promise<dataObject.character[]> {
+        return (await this.getCharacters()).filter((character) => character.rarity === rarity);
     }
 
 }

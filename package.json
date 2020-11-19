@@ -14,7 +14,7 @@
     "typescript": "^4.0.5"
   },
   "scripts": {
-    "test": "tsc && node example/example.js",
+    "test": "tsc && node test/test.js",
     "prepare": "tsc"
   },
   "repository": {
