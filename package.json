@@ -13,8 +13,8 @@
     "typescript": "^4.0.5"
   },
   "scripts": {
-    "test": "tsc && node test/test-js.js",
-    "publish": "tsc && node test/test-js.js && npm publish"
+    "test": "tsc && node test/test.js",
+    "publish": "tsc && npm publish"
   },
   "repository": {
     "type": "git",
