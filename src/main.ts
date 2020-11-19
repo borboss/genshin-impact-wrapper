@@ -2,7 +2,7 @@ import * as dataObject from "./util/dataObject";
 import * as type from "./util/types";
 import * as glob from "glob";
 
-export class client {
+class client {
 
     async getCharacters(): Promise<dataObject.character[]> {
         let characterDataList: dataObject.character[] = [];
@@ -34,3 +34,5 @@ export class client {
     }
 
 }
+
+export { client };

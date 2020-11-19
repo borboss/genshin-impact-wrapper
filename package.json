@@ -1,6 +1,6 @@
 {
   "name": "genshin-impact-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unofficial Genshin Impact API Wrapper",
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
