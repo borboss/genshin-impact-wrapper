@@ -7,12 +7,13 @@
     "nation": "Liyue",
     "rarity": 4,
     "images": {
-        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg",
-        "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png"
+        "female": {
+            "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg",
+            "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png"
+        }
     },
     "constellation": "Opus Aequilibrium",
     "birthday": "August 26th",
     "description": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile. As a Tianquan of the Liyue Qixing, not only does she embody law and order, she also represents fortune and wit.",
-    "url": "https://genshin-impact.fandom.com/wiki/Ningguang",
-    "isPlayable": true
+    "url": "https://genshin-impact.fandom.com/wiki/Ningguang"
 }

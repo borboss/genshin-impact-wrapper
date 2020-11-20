@@ -7,12 +7,13 @@
     "nation": "Liyue",
     "rarity": 4,
     "images": {
-        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Xingqiu_Card.jpg",
-        "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Xingqiu_Portrait.png"
+        "male": {
+            "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Xingqiu_Card.jpg",
+            "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Xingqiu_Portrait.png"
+        }
     },
     "constellation": "Fabulae Textile",
     "birthday": "October 9th",
     "description": "The second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child. But there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side...",
-    "url": "https://genshin-impact.fandom.com/wiki/Xingqiu",
-    "isPlayable": true
+    "url": "https://genshin-impact.fandom.com/wiki/Xingqiu"
 }

@@ -7,12 +7,13 @@
     "nation": "Liyue",
     "rarity": 4,
     "images": {
-        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
-        "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png"
+        "female": {
+            "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
+            "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png"
+        }
     },
     "constellation": "Victor Mare",
     "birthday": "February 14th",
     "description": "Captain of the Crux, with quite the reputation in Liyue. There are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her. For those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say- \"No matter what sea beasts there may be, Beidou will be sure to split them all in two.\"",
-    "url": "https://genshin-impact.fandom.com/wiki/Beidou",
-    "isPlayable": true
+    "url": "https://genshin-impact.fandom.com/wiki/Beidou"
 }
