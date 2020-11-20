@@ -7,8 +7,10 @@
     "nation": "Mondstadt",
     "rarity": 4,
     "images": {
-        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
-        "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png"
+        "female": {
+            "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
+            "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png"
+        }
     },
     "constellation": "Tempus Fugit",
     "birthday": "June 9th",
