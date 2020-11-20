@@ -1,0 +1,13 @@
+{
+    "name": "Paimon",
+    "title": "Emergency Food",
+    "gender": "Female",
+    "images": {
+        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Character_Paimon_Card.png",
+        "portraitImage": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Character_Paimon_Portrait.png"
+    },
+    "birthday": "June 1st",
+    "description": "Paimon is not a playable character in genshin. However, she accompanies Traveler throughout their adventure. She represents Genshin's App, Website, and Social Media Icons. ",
+    "url": "https://genshin-impact.fandom.com/wiki/Paimon",
+    "isPlayable": false
+}
