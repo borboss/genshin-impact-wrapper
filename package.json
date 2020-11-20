@@ -1,9 +1,9 @@
 {
   "name": "genshin-impact-wrapper",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "description": "Unofficial Genshin Impact API Wrapper",
-  "main": "./dist/main.js",
-  "types": "./dist/main.d.ts",
+  "main": "./out/main.js",
+  "types": "./out/main.d.ts",
   "runkitExampleFilename": "./examples/example.js",
   "dependencies": {
     "glob": "^7.1.6"
@@ -14,7 +14,7 @@
     "typescript": "^4.0.5"
   },
   "scripts": {
-    "test": "npx tsc && node test/test.js",
+    "test": "npx tsc && node ./test/test.js",
     "prepare": "npx tsc"
   },
   "repository": {

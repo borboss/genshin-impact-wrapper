@@ -4,7 +4,7 @@
     "module": "commonjs",
     "lib": ["es6"],
     "declaration": true,
-    "outDir": "./dist",
+    "outDir": "./out",
     "rootDir": "./src",
     "strict": true,
     "moduleResolution": "node",
@@ -14,7 +14,7 @@
   "exclude": [
     "node_modules",
     "examples",
-    "dist",
-    "test"
+    "test",
+    "out"
   ]
 }
