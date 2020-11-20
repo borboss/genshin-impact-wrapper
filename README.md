@@ -59,7 +59,7 @@ Yarn
 yarn add genshin-impact-wrapper
 ```
 
-Object Structure
+Object Structures
 ```typescript
 interface character {
     name: string,
