@@ -1,0 +1,15 @@
+{
+    "name": "Electro Slime",
+    "type": "Electro",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "giant": "Emit a damaging electric field with every bounce. There are two variants, yellow and purple, when paired, they create an electric connection."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to electro"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Slime_Geo.png"
+}

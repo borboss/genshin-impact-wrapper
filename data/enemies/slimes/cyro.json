@@ -1,0 +1,16 @@
+{
+    "name": "Cyro Slime",
+    "type": "Cyro",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "lesser": "Freeze water so they can walk over it.",
+        "giant": "Have an ice armor that is easily broken with Claymores, or quickly melted with pyro damage."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to cyro"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Slime_Cryo.png"
+}

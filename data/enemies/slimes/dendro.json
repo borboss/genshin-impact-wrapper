@@ -1,0 +1,16 @@
+{
+    "name": "Dendro Slime",
+    "type": "Dendro",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "lesser": "Ambush the player by burrowing underground",
+        "giant": "Can spawn lesser Dendro slimes, which remain alive even when the Giant Slime is defeated."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to dendro"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Slime_Dendro.png"
+}

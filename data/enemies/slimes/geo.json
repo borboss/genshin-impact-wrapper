@@ -1,0 +1,15 @@
+{
+    "name": "Geo Slime",
+    "type": "Geo",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "giant": "Have a thick armor that is easily broken with Claymores."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to geo"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Slime_Geo.png"
+}

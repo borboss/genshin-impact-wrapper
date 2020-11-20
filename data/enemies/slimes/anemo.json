@@ -1,0 +1,16 @@
+{
+    "name": "Anemo Slime",
+    "type": "Anemo",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "lesser": "Freeze water so they can walk over it.",
+        "giant": "Will hover in the air and fire a barrage of projectiles instead of crushing the player. They are able to one-shot anything while in this state."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to anemo"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Slime_Anemo.png"
+}

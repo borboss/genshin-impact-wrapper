@@ -1,0 +1,15 @@
+{
+    "name": "Pyro Slime",
+    "type": "Pyro",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {
+        "lesser": "Will explode on death if it's not wet."
+    },
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to pyro"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Slime_Pyro.png"
+}

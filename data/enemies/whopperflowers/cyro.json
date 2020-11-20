@@ -1,0 +1,18 @@
+{
+    "name": "Cyro Whopperflower",
+    "type": "Cyro",
+    "rarity": "Common",
+    "family": "Whopperflower",
+    "description": "A mimetic plant monster that attacks without warning and uses Cyro to hunt its prey.",
+    "specials": {
+        "teleport": "If a player is in melee range, there is a high chance it will teleport away.",
+        "meleeAoe":"With a player in melee range of the whopperflower, it may spin its leaves and doing an aeo attack capable of hitting a maximum of three times",
+        "rangedAttack":"If a player is not in melee range the whoppeflower will instead shoot out a ranged attack.",
+        "chargedAttack":"The whopperflower will close it's leaves and consume one of the \"crystals\" orbiting it. When a \"crystal\" is consumed, it will create a cyro shield, which allows it to charge up. If it fully charges up, it will shoot projectiles, but if the shield is broken in time, it will be stunned for about 15 to 20 seconds, depending on the element.",
+        "recharge":"Once all three \"crystals\" are consumed, the whopperflower will plunge into the ground, and restore all three which creates a visual aoe attack, but will not do any damage."
+    },
+    "drops": [
+        "Whopperflower Nectar", "Shimmering Nectar (Level 40+)", "Energy Nectar (Level 60+)"
+    ],
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Cyro_whopperflower_icon.png"
+}

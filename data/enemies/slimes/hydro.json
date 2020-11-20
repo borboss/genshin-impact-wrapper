@@ -1,0 +1,13 @@
+{
+    "name": "Hydro Slime",
+    "type": "Hydro",
+    "rarity": "Common",
+    "family": "Slime",
+    "specials": {},
+    "resistance": {
+        "elemental": "10%",
+        "physical": "10%",
+        "other": "Immune to hydro"
+    },
+    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Slime_Hydro.png"
+}
