@@ -59,5 +59,36 @@ Yarn
 yarn add genshin-impact-wrapper
 ```
 
+Object Structure
+```typescript
+interface character {
+    name: string,
+    title?: string,
+    gender: type.gender,
+    vision: type.vision,
+    weapon: type.weapon,
+    nation?: type.nation,
+    rarity: number,
+    images?: {
+        male?: {
+            cardImage?: string,
+            portraitImage?: string,
+        },
+        female?: {
+            cardImage?: string,
+            portraitImage?: string,
+        },
+        both?: {
+            cardImage?: string,
+            portraitImage?: string,
+        }
+    },
+    constellation?: string,
+    birthday?: string,
+    description: string,
+    url?: string
+}
+```
+
 * Credits
 Data from [Here](https://github.com/AkenoSann/genshin-impact-api), [here](https://github.com/HerixOfficial/genshin-impact) and [here](https://genshin-impact.fandom.com/)
