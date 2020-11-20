@@ -6,9 +6,13 @@
     "gender": "Female",
     "nation": "Liyue",
     "rarity": 5,
-    "image": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+    "images": {
+        "cardImage": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+        "portraitImage": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png"
+    },
     "constellation": "Trulla Cementarii",
     "birthday": "November 20th",
     "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue ⁠— but in truth, gods admire skeptics such as her quite a lot.",
-    "url": "https://genshin-impact.fandom.com/wiki/Keqing"
+    "url": "https://genshin-impact.fandom.com/wiki/Keqing",
+    "isPlayable": true
 }
